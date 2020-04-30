@@ -42,7 +42,7 @@ Soon: 😦
 
 ## Log 🤒
 
-You can find my developer's log [here](2020/Logs/Developer Log (2020).md)! I'll try my best to update this log often.
+You can find my developer's log [here](2020/Logs/developer-log-2020.md)! I'll try my best to update this log often.
 
 ---
 
