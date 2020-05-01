@@ -4,6 +4,14 @@
 
 ---
 
+### May 1
+
+Learning about control structures through Maximilian's course. I can understand how important if Statements and Loops are to JavaScript and programming in general, and how they can help to write clean, efficient code. Looking forward to try build something soon!
+
+I have also switched over to using [Notion](https://www.notion.so/) from Microsoft's OneNote. I definitely feel more at home using it!
+
+---
+
 ### April 30
 
 In the past week I have been learning JavaScript from scratch, using the following resources:
