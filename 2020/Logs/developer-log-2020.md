@@ -4,6 +4,20 @@
 
 ---
 
+### May 6
+
+I have completed the Control Structures section in the course and have built two projects to apply that knowledge - a calculator app that does not exactly work like a traditional calculator (😜) and a monster killer game. Today, I had this book delivered to my door:
+
+- [JavaScript & JQuery: Interactive Front-end Web Developement by Jon Duckett](https://www.amazon.com.au/JavaScript-Jquery-Interactive-Front-end-Development/dp/1118531647/ref=asc_df_1118531647/?tag=googleshopdsk-22&linkCode=df0&hvadid=341743255824&hvpos=&hvnetw=g&hvrand=11484080568845607018&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9071449&hvtargid=pla-404294411926&psc=1)
+
+I read Jon Duckett's other book on HTML and CSS, having really enjoyed the books visuals.
+
+The book was recommended to me some kind people on the [DEV Community](https://dev.to/) which I recently started using. In the past week, I have read some interesting posts and ideas which I have saved for future reference.
+
+I have also created a StackOverflow [account](https://stackoverflow.com/users/13161343/alexhecodes). I think that answering questions others may have is a great way for myself to reinforce my learning - although I have a lot of learning to do before I am comfortable enough! 😅
+
+---
+
 ### May 1
 
 Learning about control structures through Maximilian's course. I can understand how important if Statements and Loops are to JavaScript and programming in general, and how they can help to write clean, efficient code. Looking forward to try build something soon!
