@@ -4,6 +4,12 @@
 
 ---
 
+### May 9
+
+Update: I have been learning about ES5 and ES6 and their differences in the past few days. I have also gotten my feet wet with DOM Manipulation. Recently, I took a look at Apple's website because I wanted to take a look at the new Macbook Pro. I'm very impressed by their website, especially with their scroll animations. So I'm going to try make something similar!
+
+---
+
 ### May 6
 
 I have completed the Control Structures section in the course and have built two projects to apply that knowledge - a calculator app that does not exactly work like a traditional calculator (😜) and a monster killer game. Today, I had this book delivered to my door:
