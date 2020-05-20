@@ -10,6 +10,14 @@ I have been relatively busy with family commitments in the past couple of weeks 
 
 ---
 
+### May 12
+
+Been busy with other commitments for the past few days. Going to keep pushing through with the JavaScript course! I have been using an iPhone app called [Forest](https://www.forestapp.cc/) to maintain my focus when it comes to learning. The app is essentially a Pomodoro timer, albeit a very beautiful one, where for each time you concentrate for the specified amount of time, you 'plant' a tree in your virtual forest and gain some virtual coins. I definitely want to plant a nice looking forest!
+
+Thanks to [Trees for the Future](https://trees.org/sponsor/forest-app/), 2500 virtual coins can be exchanged for a real tree planted in Sub Saharan Africa. I am going to do my best to use the app and plant a real tree! 🌳
+
+---
+
 ### May 9
 
 Update: I have been learning about ES5 and ES6 and their differences in the past few days. I have also gotten my feet wet with DOM Manipulation. Recently, I took a look at Apple's website because I wanted to take a look at the new Macbook Pro. I'm very impressed by their website, especially with their scroll animations. So I'm going to try make something similar!
