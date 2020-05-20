@@ -4,6 +4,12 @@
 
 ---
 
+### May 20
+
+I have been relatively busy with family commitments in the past couple of weeks and so I did not get as much learning done as I would have liked to. I have decided to take a short break from learning JavaScript. I have been using [FreeCodeCamp](https://www.freecodecamp.org/learn) and [Codecademy](https://www.codecademy.com/learn/paths/web-development) to revisit HTML and CSS, to really cement the concepts in my head. I have also been using Maximilian's [CSS - The Complete Guide 2020 (incl. Flexbox, Grid & Sass)](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/) course which I have been really enjoying.
+
+---
+
 ### May 9
 
 Update: I have been learning about ES5 and ES6 and their differences in the past few days. I have also gotten my feet wet with DOM Manipulation. Recently, I took a look at Apple's website because I wanted to take a look at the new Macbook Pro. I'm very impressed by their website, especially with their scroll animations. So I'm going to try make something similar!
