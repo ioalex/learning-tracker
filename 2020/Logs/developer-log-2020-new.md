@@ -4,6 +4,12 @@
 
 ---
 
+## July 16
+
+I've spent the past few days working on my side hustle. Today, I learnt how to use Netlify to host my side hustle website. It's a pretty smooth process. I'm having a lot of fun! 😜
+
+---
+
 ## July 13
 
 Things I learnt today:
