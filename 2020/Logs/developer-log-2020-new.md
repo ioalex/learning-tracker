@@ -4,6 +4,12 @@
 
 ---
 
+## August 9
+
+I have been busy building the website for my side gig. It's been fun but at times frustrating as there are many things to think about as we're dealing with customers and money. I should probably commit more often! Haha 😅
+
+---
+
 ## July 24
 
 I have been building a rock-paper-scissors game. I have gotten the core game logic down. I plan to add multiplayer functionality in future with Sockets io.
