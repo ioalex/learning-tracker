@@ -4,6 +4,16 @@
 
 ---
 
+## August 19
+
+Still building the website for my side business! 😛
+
+Been enjoying the process and also learning more about Git and GitHub at the same time.
+
+I've set up a GitHub Action for Google's Lighthouse CI to launch an audit every time I make a push or pull request to master. Very cool.
+
+---
+
 ## August 9
 
 I have been busy building the website for my side gig. It's been fun but at times frustrating as there are many things to think about as we're dealing with customers and money. I should probably commit more often! Haha 😅
