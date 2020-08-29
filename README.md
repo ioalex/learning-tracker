@@ -95,6 +95,8 @@ I'm currently interested in/excited about:
 
 ## Ideas 🤔
 
+Jarvis CLI - A tool for customising your very own personal assistant that will help you start projects more quickly!
+
 [Review app](https://www.notion.so/Review-app-026b9a6df858487b809e523f974f9c65)
 
 [Remake a game in electron](https://www.notion.so/Remake-a-game-in-electron-7bc44e45a84345a9be7d77d0e61b8fa3)
