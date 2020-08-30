@@ -8,6 +8,10 @@
 
 Discovered a Git client app for iOS called [Working Copy](https://workingcopyapp.com) and downloaded it straight away. Hopefully this app will help me to log entries here more often! 😛
 
+5 hours later...
+
+I've finally finished [Gobble](https://github.com/ioalex/gobble.git), an opinionated boilerplate for starting static web page projects quickly! It relies heavily on the task runner Gulp. I'm pretty happy with what I've done with it. I had my first real shot at writing legit documentation for this project and hope I only improve from here. Let's go!! 🚀🚀🚀
+
 ---
 
 ## August 29
