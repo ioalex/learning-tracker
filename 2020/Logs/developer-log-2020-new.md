@@ -4,6 +4,16 @@
 
 ---
 
+## August 31
+
+I am trying to learn Vim! Nothing against VSCode, but I couldn't help but be drawn to Vim.
+
+I'm having a lot of fun customizing Vim to have IDE-like features such as autocompletion - so far so good!
+
+I am using the Neovim fork as it seems that its the way most Vim-users are rocking with now. My current dotfiles for Neovim are available [here](https://github.com/ioalex/nvim).
+
+---
+
 ## August 30
 
 Discovered a Git client app for iOS called [Working Copy](https://workingcopyapp.com) and downloaded it straight away. Hopefully this app will help me to log entries here more often! 😛
