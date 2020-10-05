@@ -2,6 +2,16 @@
 
 ## 2020
 
+## October 5
+
+Whoops, haven't posted an entry in a month! 🙃
+
+I've configured my [dotfiles](https://github.com/ioalex/dotfiles) and I'm pretty happy with them so far. Though, I will most likely be continually changing them.
+
+I've made some updates to [Gobble](https://github.com/ioalex/gobble) to rid of some silly silly mistakes and have added linting for many filetypes.
+
+I'm still working on my side business with my brother. Its been a slow process but I'm happy with the progress we've made. The website is coming together. The aim is that we can launch sometime next year.
+
 ---
 
 ## September 2
